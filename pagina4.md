@@ -4,7 +4,7 @@ title: "Página 4 - Contenido y Estilo"
 permalink: /pagina4/
 ---
 
-# Prueba: Introducccion a la implantación de aplicaciónes web
+# Prueba2: Introducccion a la implantación de aplicaciónes web
 
 Alumno: **Javier Jiménez Gonzalez**
 Fecha: **30-10-2025**
